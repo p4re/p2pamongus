@@ -19,9 +19,9 @@ A helper utility to allow you to play Among Us over a peer-to-peer connection on
 2. Ensure port 22023 is forwarded in your router to the device you are running Among Us on.
 3. Give your IP address to the users you want to play with.
 
-## TODO
+## Things to do..
 
-- Test Android compatibility.
+x Test Android compatibility [DONE WORKING 24/5/21]
 - Allow multiple games/devices to connect to one single Among Us P2P app.
-- Improve stability.
+x Improve stability.[DONE WORKING 24/5/21]
 - Add a utility to assist hosts (UPnP, port forwarding detection)
